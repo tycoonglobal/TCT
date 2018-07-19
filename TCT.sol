@@ -96,8 +96,8 @@ contract TCT is Owned, Stopped, MathTCT, TokenERC20 {
     }
 
     function _transfer(address _from, address _to, uint256 _value) internal {
-        require (_to != 0x0);
-        require (balanceOf[_from] >= _value);
+        require(_to != 0x0);
+        require(balanceOf[_from] >= _value);
         require(!frozenAccount[_from]);
         require(!frozenAccount[_to]);
         balanceOf[_from] = sub(balanceOf[_from], _value);
