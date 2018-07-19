@@ -1,1 +1,3 @@
-# tycoon
+Tycoon Global Real Estate Investment Platform (hereafter referred to as Tycoon Global) is a decentralized real estate investment, trading, and management platform, which is based on Ethereum.
+
+Through a decentralized blockchain platform, Tycoon Global directly connects international investors with global real estate assets. With Australian residential development and commercial real estate management as its primary focus, Tycoon Global builds a new real estate ecosystem including investment, development, construction, project management, property management and transactions based on transparency, openness and trust.
